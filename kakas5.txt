@@ -1,3 +1,7 @@
 Nur Farid Mufid
 
+<<<<<<< HEAD
 CHOU
+=======
+60900120025
+>>>>>>> branch-1
